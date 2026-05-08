@@ -1,6 +1,4 @@
 
-
-```md
 <h1 align="center">Hi 👋, I'm Nidhi</h1>
 <h3 align="center">Full Stack Developer | MERN Stack | AI-Powered Educational Platforms</h3>
 
@@ -115,4 +113,4 @@ Python-based voting system with GUI, authentication, and attendance/voting manag
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=nidhi-mamman&label=Profile%20views&color=0e75b6&style=flat" alt="nidhi-mamman" />
 </p>
-```
+
